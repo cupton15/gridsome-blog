@@ -8,6 +8,9 @@
 import PostCard from '../components/PostCard';
 
 export default {
+  components: {
+    PostCard
+  },
   metaInfo: {
     title: 'My gridsome blog!'
   }
