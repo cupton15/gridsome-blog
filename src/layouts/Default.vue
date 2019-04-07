@@ -1,6 +1,6 @@
 <template>
   <div class="layout">
-    <slot/>
+    <slot />
   </div>
 </template>
 
@@ -22,8 +22,7 @@ body {
 
 .layout {
   margin: 0 auto;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding: 20px;
 }
 
 .header {
